@@ -69,5 +69,7 @@ The Second I am gonna add would be GNSS/GPS Modules to calculate device's physic
 The next Thing I really wanna add and I think that would be soo cool to add is gonna be Sensors to Measure temperature humidity pressure and indoor air quality (gas tracking) to build a remote weather station.
 <br>
 3- BME280 / BME680 Sensors
-
-
+<br>
+Last but not the Least, The final thing I am gonna add would be a ATECC608A to secure data at the hardware level. It adds military-grade encryption keys to LoRaWAN packets.
+<br>
+4- ATECC608A
