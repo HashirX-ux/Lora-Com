@@ -106,5 +106,45 @@ Last but not the Least, The final thing I am gonna add would be a ATECC608A to s
 5- Buzzer or Vibration motor
 <br>
 So Its gonna act as a Notification feedback when a message arrives and the buzzer gonna make the sound to indicate..
+<br>
+<br>
+
+So Now I am done researching all the components that I am gonna use for my LoRa device. Now i am gonna start researching about each component indivudually so that I can understand datasheets of the components..
+<br>
+Lets start by Microcontroller... So the first MCU I have found That I can Use in my device is Nordic nrf52840. This MCU mainly supports sustainable battery power and a long lasting battery and also features mobile phone connection via bluetooth. 
+
+<img width="832" height="329" alt="image" src="https://github.com/user-attachments/assets/3d49604c-2ad5-478f-bccb-4f9c60abc88f" />
+<br>
+
+It does looks cool 
+<br>
+<img width="756" height="291" alt="image" src="https://github.com/user-attachments/assets/e6c6a063-40e8-45e2-85e4-b86e6631d421" />
+<br>
+
+My Preference is that I wanna use such MCU that provides a cool looking UI for the user cuz yk it gives more of that hacker asthetic vibe.. For that purpose that Best MCU I have found is ESP32-S3 according to my research
+
+<img width="792" height="97" alt="image" src="https://github.com/user-attachments/assets/1f0c9f5f-7e9a-42ed-b99a-bd6c47004e25" />
+<br>
+
+This is how a ESP32-S3 Looks: 
+<br>
+<img width="1262" height="613" alt="image" src="https://github.com/user-attachments/assets/bb219c4b-2615-4f32-a12a-f9f03fd5fc5c" />
+<br>
+
+Since I am preferring 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
