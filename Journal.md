@@ -21,6 +21,21 @@ So I am gonna start by researching how a LoRa messenger device works cause i kno
 So the working is pretty simple..
 <img width="665" height="144" alt="image" src="https://github.com/user-attachments/assets/30526f34-77ca-4fbc-aeb0-a8822864f129" />
 <br>
+So basically the MCU sned digital signals to the transceiver and its converts it into radio waves and the transceiver on the receiver side which has the same frequency picks those radio waves which are manipulated by their frequency and then demodulation happens to revert those waves..
+<br>
+Now I am gonna start researching about all the Components that are required to build the devive...
+<br>
+
+So the first component we need is an MCU or a microcontroller to convert data to digital signals..
+<br>
+1- Microcontroller 
+<br>
+The second thing we need is a LoRa radio module to send and receive radio signals using very less electricity..
+<br>
+2- LoRa radio module
+<br>
+
+
 
 
 
