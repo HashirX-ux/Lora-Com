@@ -26,50 +26,72 @@ So basically the MCU sned digital signals to the transceiver and its converts it
 Now I am gonna start researching about all the Components that are required to build the devive...
 <br>
 
-So the first component we need is an MCU or a microcontroller to convert data to digital signals..
-<br>
 1- Microcontroller 
 <br>
-The second thing we need is a LoRa radio module to send and receive radio signals using very less electricity..
+So the first component we need is an MCU or a microcontroller to convert data to digital signals..
 <br>
 2- LoRa radio module
 <br>
-Then we need a display to show the actual data or message which is being transmitted..
+The second thing we need is a LoRa radio module to send and receive radio signals using very less electricity..
 <br>
 3- Display (OLED OR E-PAPER)
 <br>
-The next thing is an keyboard module so that we can give the input to the device..
+Then we need a display to show the actual data or message which is being transmitted..
 <br>
 4- Input module 
 <br>
-And the fifth thing is the power supply for which we need a LiPo battery 3.7V
+The next thing is an keyboard module so that we can give the input to the device..
 <br>
 5- LiPo battery
 <br>
-The next thing is a charger module with protection to charge out LiPo battery
+And the fifth thing is the power supply for which we need a LiPo battery 3.7V
 <br>
 6- Charger Module
 <br>
-And a voltage regulator to maintain a stable 3.3V/5V rail.
+The next thing is a charger module with protection to charge out LiPo battery
 <br>
 7- Voltage regulator 
 <br>
+And a voltage regulator to maintain a stable 3.3V/5V rail.
+<br>
+8- LoRa Antenna (+ connector)
+<br>
+The next thing is gonna be antennas with connectors 
+<br> 
+9- USB connector
+<br>
+Then I would need a usb connecttor to for flash firmware etc
+<br>
+10- Power switch
+<br>
+Then a power switch which is a physical on/off switch (or soft-power circuit) so you I fully disconnect the battery.
+<br>
+11- Battery voltage monitoring
+<br>
+Now I need some sort of battery monitoring system. without this you cannot show battery percentage or implement low battery shutdown.
+<br>
+12- Basic passive components
+<br>
+Decoupling capacitors (0.1 µF + 10 µF near every IC), pull-up resistors (for I2C on the ATECC608A, BME sensor, keyboard expander, etc.), series resistors for LEDs/encoders, and possibly a 32.768 kHz crystal for accurate RTC
+
 
 Now that I am gone with the necessary components, I am gonna start putting some extra cool things in my device too.. Lets research about what are the cool things I can add..
 
 <br>
-The first thing I wanna add will be a Rotary encoder to scroll thro options...
-<br>
 1- Rotary Encoder 
 <br>
-The Second I am gonna add would be GNSS/GPS Modules to calculate device's physical coordinates such as latitude longitude and altitude using signals from global navigation satellites.
+The first thing I wanna add will be a Rotary encoder to scroll thro options...
 <br>
 2- GNSS/GPS Modules
 <br>
-The next Thing I really wanna add and I think that would be soo cool to add is gonna be Sensors to Measure temperature humidity pressure and indoor air quality (gas tracking) to build a remote weather station.
+The Second I am gonna add would be GNSS/GPS Modules to calculate device's physical coordinates such as latitude longitude and altitude using signals from global navigation satellites.
 <br>
 3- BME280 / BME680 Sensors
 <br>
-Last but not the Least, The final thing I am gonna add would be a ATECC608A to secure data at the hardware level. It adds military-grade encryption keys to LoRaWAN packets.
+The next Thing I really wanna add and I think that would be soo cool to add is gonna be Sensors to Measure temperature humidity pressure and indoor air quality (gas tracking) to build a remote weather station.
 <br>
 4- ATECC608A
+<br>
+Last but not the Least, The final thing I am gonna add would be a ATECC608A to secure data at the hardware level. It adds military-grade encryption keys to LoRaWAN packets.
+
+
