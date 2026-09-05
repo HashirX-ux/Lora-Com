@@ -54,11 +54,20 @@ And a voltage regulator to maintain a stable 3.3V/5V rail.
 <br>
 7- Voltage regulator 
 <br>
+
 Now that I am gone with the necessary components, I am gonna start putting some extra cool things in my device too.. Lets research about what are the cool things I can add..
+
 <br>
-
-
-
-
+The first thing I wanna add will be a Rotary encoder to scroll thro options...
+<br>
+1- Rotary Encoder 
+<br>
+The Second I am gonna add would be GNSS/GPS Modules to calculate device's physical coordinates such as latitude longitude and altitude using signals from global navigation satellites.
+<br>
+2- GNSS/GPS Modules
+<br>
+The next Thing I really wanna add and I think that would be soo cool to add is gonna be Sensors to Measure temperature humidity pressure and indoor air quality (gas tracking) to build a remote weather station.
+<br>
+3- BME280 / BME680 Sensors
 
 
