@@ -80,7 +80,9 @@ Hardware reset is almost always needed to reset the internal hardware for flasg 
 14- Basic passive components
 <br>
 Decoupling capacitors (0.1 µF + 10 µF near every IC), pull-up resistors (for I2C on the ATECC608A, BME sensor, keyboard expander, etc.), series resistors for LEDs/encoders, and possibly a 32.768 kHz crystal for accurate RTC
-
+<br>
+15- GPS Antenna
+Most GNSS modules perform much better (or only work properly) with a dedicated antenna
 
 Now that I am gone with the necessary components, I am gonna start putting some extra cool things in my device too.. Lets research about what are the cool things I can add..
 
