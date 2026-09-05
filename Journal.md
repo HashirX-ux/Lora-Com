@@ -34,6 +34,28 @@ The second thing we need is a LoRa radio module to send and receive radio signal
 <br>
 2- LoRa radio module
 <br>
+Then we need a display to show the actual data or message which is being transmitted..
+<br>
+3- Display (OLED OR E-PAPER)
+<br>
+The next thing is an keyboard module so that we can give the input to the device..
+<br>
+4- Input module 
+<br>
+And the fifth thing is the power supply for which we need a LiPo battery 3.7V
+<br>
+5- LiPo battery
+<br>
+The next thing is a charger module with protection to charge out LiPo battery
+<br>
+6- Charger Module
+<br>
+And a voltage regulator to maintain a stable 3.3V/5V rail.
+<br>
+7- Voltage regulator 
+<br>
+Now that I am gone with the necessary components, I am gonna start putting some extra cool things in my device too.. Lets research about what are the cool things I can add..
+<br>
 
 
 
