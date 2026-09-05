@@ -70,7 +70,14 @@ Then a power switch which is a physical on/off switch (or soft-power circuit) so
 <br>
 Now I need some sort of battery monitoring system. without this you cannot show battery percentage or implement low battery shutdown.
 <br>
-12- Basic passive components
+12- Status LEDs
+<br>
+Status LEDs are important to show the status if Power, charging, TX/RX 
+<br>
+13- Reset button
+<br>
+Hardware reset is almost always needed to reset the internal hardware for flasg etc
+14- Basic passive components
 <br>
 Decoupling capacitors (0.1 µF + 10 µF near every IC), pull-up resistors (for I2C on the ATECC608A, BME sensor, keyboard expander, etc.), series resistors for LEDs/encoders, and possibly a 32.768 kHz crystal for accurate RTC
 
@@ -93,5 +100,9 @@ The next Thing I really wanna add and I think that would be soo cool to add is g
 4- ATECC608A
 <br>
 Last but not the Least, The final thing I am gonna add would be a ATECC608A to secure data at the hardware level. It adds military-grade encryption keys to LoRaWAN packets.
+<br>
+5- Buzzer or Vibration motor
+<br>
+So Its gonna act as a Notification feedback when a message arrives and the buzzer gonna make the sound to indicate..
 
 
