@@ -16,6 +16,11 @@ A communication device that lets you send text messages without using Wi-Fi, cel
 So yesterday I was chilling in the park. I was alone so I had the idea to call my friend and ask my friend if he could also come. I then tried to call him but then I got reminded that "Ohh I dont have the call balance to do so" which got me frustrated with the idea that you need Sim cards, wifi to send your desired message to your destination. Thats when my mind clicked an idea. "What if I could build a device that no longer needs any of that?". I came home and researched about the device and the first thing the showed up was a LoRa-Communicator and then I decided I really wanna build that.. and So I got into action
 
 **What I did today:**
+<br>
+So I am gonna start by researching how a LoRa messenger device works cause i know shi.. about tht and then i'll be moving towards researching about the components that are required to build the device..
+So the working is pretty simple..
+<img width="665" height="144" alt="image" src="https://github.com/user-attachments/assets/30526f34-77ca-4fbc-aeb0-a8822864f129" />
+<br>
 
 
 
