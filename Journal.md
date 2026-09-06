@@ -82,6 +82,7 @@ Hardware reset is almost always needed to reset the internal hardware for flasg 
 Decoupling capacitors (0.1 µF + 10 µF near every IC), pull-up resistors (for I2C on the ATECC608A, BME sensor, keyboard expander, etc.), series resistors for LEDs/encoders, and possibly a 32.768 kHz crystal for accurate RTC
 <br>
 15- GPS Antenna
+<br>
 Most GNSS modules perform much better (or only work properly) with a dedicated antenna
 
 Now that I am gone with the necessary components, I am gonna start putting some extra cool things in my device too.. Lets research about what are the cool things I can add..
@@ -147,11 +148,16 @@ So the ESP32-S3 has 45 general purpose pins meaning these pins can be used to co
 Yeah I am definatly gonna add GNSS system to my LoRa device.. This is gonna look so damn cool...
 <img width="791" height="114" alt="image" src="https://github.com/user-attachments/assets/633aa2e9-6481-4847-8262-e6f7f856bd5b" />
 <br>
-Overall There are three types of pins in the esp32-s3. The first one is the Analog pins to measure continuous analog signals like temperature etc. The second type of pins are the power pins that provide 5v and 3.3V power supply based on your usage. I can use 5V pin to power the USB-C device and 3.3V to power the Small sensors or displays to show data 
-
+Overall There are three types of pins in the esp32-s3. 
+- Analog Pins
+- Power pins
+- GPIO pins
+<br>
+The first one is the Analog pins to measure continuous analog signals like temperature etc. The second type of pins are the power pins that provide 5v and 3.3V power supply based on your usage. I can use 5V pin to power the USB-C device and 3.3V to power the Small sensors or displays to show data and then there are GPIO pins to connect external components..
+<br>
 <img width="401" height="701" alt="image" src="https://github.com/user-attachments/assets/7f068208-16e0-46a9-83ea-b8f68bf41a39" />
-
-
+<br>
+defe fe
 
 
 
