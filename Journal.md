@@ -146,6 +146,10 @@ So the ESP32-S3 has 45 general purpose pins meaning these pins can be used to co
 <br>
 Yeah I am definatly gonna add GNSS system to my LoRa device.. This is gonna look so damn cool...
 <img width="791" height="114" alt="image" src="https://github.com/user-attachments/assets/633aa2e9-6481-4847-8262-e6f7f856bd5b" />
+<br>
+Overall There are three types of pins in the esp32-s3. The first one is the Analog pins to measure continuous analog signals like temperature etc. The second type of pins are the power pins that provide 5v and 3.3V power supply based on your usage. I can use 5V pin to power the USB-C device and 3.3V to power the Small sensors or displays to show data 
+
+<img width="401" height="701" alt="image" src="https://github.com/user-attachments/assets/7f068208-16e0-46a9-83ea-b8f68bf41a39" />
 
 
 
