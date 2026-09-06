@@ -143,6 +143,9 @@ Obviously My dumb ahh brain has no idea what even is this diagram cause its the 
 <br>
 So the ESP32-S3 has 45 general purpose pins meaning these pins can be used to connect external devices in order to communicate with the MCU
 <img width="704" height="731" alt="image" src="https://github.com/user-attachments/assets/840913a3-d273-47ca-a53f-fd2ef85dcc74" />
+<br>
+Yeah I am definatly gonna add GNSS system to my LoRa device.. This is gonna look so damn cool...
+<img width="791" height="114" alt="image" src="https://github.com/user-attachments/assets/633aa2e9-6481-4847-8262-e6f7f856bd5b" />
 
 
 
