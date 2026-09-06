@@ -170,6 +170,9 @@ So SX1262 is considered one of the best radio nodules to use for the LoRa Messen
 So this is how the best LoRa Radio module looks like which are SX1262 based modules
 <br>
 <img width="265" height="280" alt="image" src="https://github.com/user-attachments/assets/376744b1-5768-4d3e-a0fd-b13338e57233" />
+<br>
+I basically have no I idea what is the meaning of these features but ts frr looks cool to use as a LoRa radio module..
+<img width="450" height="321" alt="image" src="https://github.com/user-attachments/assets/8ec00866-bd30-4320-b87f-1da2681a65fc" />
 
 
 
