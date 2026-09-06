@@ -157,7 +157,9 @@ The first one is the Analog pins to measure continuous analog signals like tempe
 <br>
 <img width="401" height="701" alt="image" src="https://github.com/user-attachments/assets/7f068208-16e0-46a9-83ea-b8f68bf41a39" />
 <br>
-defe fe
+Didnt knew that a single pin could handle multiple input/output signals. I wonder how does that even work in the first place
+<img width="1225" height="129" alt="image" src="https://github.com/user-attachments/assets/07195dd4-a9d9-49a4-b441-ddce8a6340a9" />
+
 
 
 
