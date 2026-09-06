@@ -165,6 +165,11 @@ Ok I guess its enough about the MCU, Ill continue the research on the ESP32-S3 w
 <br>
 So SX1262 is considered one of the best radio nodules to use for the LoRa Messenger
 <img width="827" height="112" alt="image" src="https://github.com/user-attachments/assets/66b588bd-7587-4399-8245-dd8ba291bbfb" />
+<br>
+
+So this is how the best LoRa Radio module looks like which are SX1262 based modules
+<br>
+<img width="265" height="280" alt="image" src="https://github.com/user-attachments/assets/376744b1-5768-4d3e-a0fd-b13338e57233" />
 
 
 
