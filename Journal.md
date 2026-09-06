@@ -138,7 +138,10 @@ Now I am gonna start researching about How an ESP32-S3 board actually works by r
 
 <img width="935" height="742" alt="image" src="https://github.com/user-attachments/assets/43129db9-b670-4a2e-86a6-2b39e06f7f1b" />
 
-So 
+Obviously My dumb ahh brain has no idea what even is this diagram cause its the first time I am using this kind of Microcontroller 
+<img width="1154" height="710" alt="image" src="https://github.com/user-attachments/assets/bade647e-1101-4296-8418-44f6fbfa34d3" />
+<br>
+
 
 
 
