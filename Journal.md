@@ -141,6 +141,9 @@ Now I am gonna start researching about How an ESP32-S3 board actually works by r
 Obviously My dumb ahh brain has no idea what even is this diagram cause its the first time I am using this kind of Microcontroller 
 <img width="1154" height="710" alt="image" src="https://github.com/user-attachments/assets/bade647e-1101-4296-8418-44f6fbfa34d3" />
 <br>
+So the ESP32-S3 has 45 general purpose pins meaning these pins can be used to connect external devices in order to communicate with the MCU
+<img width="704" height="731" alt="image" src="https://github.com/user-attachments/assets/840913a3-d273-47ca-a53f-fd2ef85dcc74" />
+
 
 
 
