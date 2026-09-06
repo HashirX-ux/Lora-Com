@@ -131,8 +131,14 @@ This is how a ESP32-S3 Looks:
 <img width="1262" height="613" alt="image" src="https://github.com/user-attachments/assets/bb219c4b-2615-4f32-a12a-f9f03fd5fc5c" />
 <br>
 
-Since I am preferring 
+Since I am preferring to use a cool looking User interface for my LoRa Device like the one that gives yk that hacker asthetic vibe, SO I am gonna be using the one and only ESP32-S3 as my MCY for my LoRa Device 
+- MCU --> ESP32-S3
 
+Now I am gonna start researching about How an ESP32-S3 board actually works by reading the datasheets and the pinouts and what are their functions..SO basically its an MCU based system on chip device (SoC) which means it has all the components of a computer or an electronic system.. I rly have no idea how the heck did they even fit those tiny components in that chip..
+
+<img width="935" height="742" alt="image" src="https://github.com/user-attachments/assets/43129db9-b670-4a2e-86a6-2b39e06f7f1b" />
+
+So 
 
 
 
