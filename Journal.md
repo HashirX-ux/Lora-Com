@@ -160,7 +160,12 @@ The first one is the Analog pins to measure continuous analog signals like tempe
 Didnt knew that a single pin could handle multiple input/output signals. I wonder how does that even work in the first place
 <img width="1225" height="129" alt="image" src="https://github.com/user-attachments/assets/07195dd4-a9d9-49a4-b441-ddce8a6340a9" />
 <br>
+
 Ok I guess its enough about the MCU, Ill continue the research on the ESP32-S3 when in need again So Now I am gonna start about the LoRa radio module and how can i use that stuuff in my schematic..
+<br>
+So SX1262 is considered one of the best radio nodules to use for the LoRa Messenger
+<img width="827" height="112" alt="image" src="https://github.com/user-attachments/assets/66b588bd-7587-4399-8245-dd8ba291bbfb" />
+
 
 
 
