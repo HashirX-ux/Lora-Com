@@ -174,7 +174,10 @@ So this is how the best LoRa Radio module looks like which are SX1262 based modu
 I basically have no I idea what is the meaning of these features but ts frr looks cool to use as a LoRa radio module..
 <img width="450" height="321" alt="image" src="https://github.com/user-attachments/assets/8ec00866-bd30-4320-b87f-1da2681a65fc" />
 <br>
-e3rr3r3
+No that I am done with the LoRa radio module setup and datasheet, Ill be moving towards the display that I am gonna use. I have researched about the best display to use and I am getting a small OLED display (like the SSD1306 128x64 pixels) which is generally the best choice for a basic, low-power LoRa messenger.
+<br>
+<img width="809" height="103" alt="image" src="https://github.com/user-attachments/assets/33efcd91-dc94-40bc-9494-2254960b6705" />
+
 
 
 
