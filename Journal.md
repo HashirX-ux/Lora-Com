@@ -173,7 +173,8 @@ So this is how the best LoRa Radio module looks like which are SX1262 based modu
 <br>
 I basically have no I idea what is the meaning of these features but ts frr looks cool to use as a LoRa radio module..
 <img width="450" height="321" alt="image" src="https://github.com/user-attachments/assets/8ec00866-bd30-4320-b87f-1da2681a65fc" />
-
+<br>
+e3rr3r3
 
 
 
