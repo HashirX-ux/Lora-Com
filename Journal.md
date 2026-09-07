@@ -178,6 +178,7 @@ No that I am done with the LoRa radio module setup and datasheet, Ill be moving 
 <br>
 <img width="809" height="103" alt="image" src="https://github.com/user-attachments/assets/33efcd91-dc94-40bc-9494-2254960b6705" />
 
+For Display I am choosing Waveshare 3.5" IPS capacitive touchscreen 
 
 
 
