@@ -182,6 +182,9 @@ For Display I am choosing Waveshare 3.5" IPS capacitive touchscreen. This screen
 <br>
 <img width="714" height="528" alt="image" src="https://github.com/user-attachments/assets/b6229069-cb50-480a-aefe-22b9769808df" />
 
+Now for the keyboard I am gonna use the built in KiCad sw-push switches that are gonna help alot 
+<img width="784" height="651" alt="image" src="https://github.com/user-attachments/assets/1ac5db90-9232-4202-b7c8-ef7a066c9201" />
+
 
 
 
