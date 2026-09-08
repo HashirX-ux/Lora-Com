@@ -185,12 +185,12 @@ For Display I am choosing Waveshare 3.5" IPS capacitive touchscreen. This screen
 Now for the keyboard I am gonna use the built in KiCad sw-push switches that are gonna help alot 
 <img width="784" height="651" alt="image" src="https://github.com/user-attachments/assets/1ac5db90-9232-4202-b7c8-ef7a066c9201" />
 <br>
-The battery is gonna be LiPo 3.7V which is kinda ugly to use but its ok
+The battery is gonna be LiPo 3.7V which is kinda ugly to use but its ok and also I am gonna use TP4056 Module as charger and protection module 
 <br>
 <img width="378" height="321" alt="image" src="https://github.com/user-attachments/assets/7e7682ac-1b58-4da8-91e1-4964fdac8527" />
+<img width="855" height="625" alt="image" src="https://github.com/user-attachments/assets/4c7f2bce-6a97-4d66-9e0f-b6b8e7507bf5" />
 
-def e
-
+dedef 
 
 
 
