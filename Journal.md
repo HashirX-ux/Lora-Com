@@ -190,8 +190,11 @@ The battery is gonna be LiPo 3.7V which is kinda ugly to use but its ok and also
 <img width="378" height="321" alt="image" src="https://github.com/user-attachments/assets/7e7682ac-1b58-4da8-91e1-4964fdac8527" />
 <img width="855" height="625" alt="image" src="https://github.com/user-attachments/assets/4c7f2bce-6a97-4d66-9e0f-b6b8e7507bf5" />
 
-dedef 
+The Voltage regulator that I am gonna use is gonna be AP2112K-3.3
+<br>
+<img width="397" height="408" alt="image" src="https://github.com/user-attachments/assets/6b79598d-0c3c-4e7e-8fa0-fda90872712e" />
 
+swdf e
 
 
 
