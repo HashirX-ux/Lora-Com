@@ -196,6 +196,11 @@ The Voltage regulator that I am gonna use is gonna be AP2112K-3.3
 
 For the USB connector I am gonna use USB-C to connect the device and so its gonna also be rechargable
 <img width="694" height="497" alt="image" src="https://github.com/user-attachments/assets/46a24ebb-6036-43e8-986e-8af0a41650f5" />
+<br>
+
+For Real time sattelite data I am gonna be using MAX-M8Q
+<br>
+<img width="372" height="386" alt="image" src="https://github.com/user-attachments/assets/a49ec1df-f6c8-4194-9136-51d72a1dba3e" />
 
 
 
