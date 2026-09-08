@@ -194,7 +194,9 @@ The Voltage regulator that I am gonna use is gonna be AP2112K-3.3
 <br>
 <img width="397" height="408" alt="image" src="https://github.com/user-attachments/assets/6b79598d-0c3c-4e7e-8fa0-fda90872712e" />
 
-swdf e
+For the USB connector I am gonna use USB-C to connect the device and so its gonna also be rechargable
+<img width="694" height="497" alt="image" src="https://github.com/user-attachments/assets/46a24ebb-6036-43e8-986e-8af0a41650f5" />
+
 
 
 
