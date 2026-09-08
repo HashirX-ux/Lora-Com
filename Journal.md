@@ -202,6 +202,9 @@ For Real time sattelite data I am gonna be using MAX-M8Q
 <br>
 <img width="372" height="386" alt="image" src="https://github.com/user-attachments/assets/a49ec1df-f6c8-4194-9136-51d72a1dba3e" />
 
+For rotary Encoder I am gonna be using EC11 standard rotary encoder.
+<br>
+<img width="378" height="359" alt="image" src="https://github.com/user-attachments/assets/9eadd733-3c6d-4535-a5ba-b38e577e2ba8" />
 
 
 
