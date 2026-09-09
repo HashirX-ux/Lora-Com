@@ -206,7 +206,7 @@ For rotary Encoder I am gonna be using EC11 standard rotary encoder.
 <br>
 <img width="378" height="359" alt="image" src="https://github.com/user-attachments/assets/9eadd733-3c6d-4535-a5ba-b38e577e2ba8" />
 
-
+defedf ew
 
 
 
