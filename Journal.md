@@ -213,7 +213,7 @@ Now I am gonna research about BME680 to measure temperature, humidity, barometri
 No I am gonna add the ATECC608A which is a secure element and cryptographic co-processor from Microchip Technology designed to provide hardware-based security, secure key storage, and cryptographic acceleration for embedded systems and Internet of Things (IoT) devices
 <img width="559" height="475" alt="image" src="https://github.com/user-attachments/assets/6645ef6d-dfe3-4a6d-ba2f-68b9b36d2d81" />
 
-
+Now I am gonna start working schematic 
 
 
 
