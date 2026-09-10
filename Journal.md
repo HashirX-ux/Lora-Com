@@ -206,7 +206,9 @@ For rotary Encoder I am gonna be using EC11 standard rotary encoder.
 <br>
 <img width="378" height="359" alt="image" src="https://github.com/user-attachments/assets/9eadd733-3c6d-4535-a5ba-b38e577e2ba8" />
 
-defedf ew
+Now I am gonna research about BME680 to measure temperature, humidity, barometric pressure, and volatile organic compounds (VOCs) for indoor air quality assessment.
+<br>
+<img width="410" height="393" alt="image" src="https://github.com/user-attachments/assets/6425c56e-9d07-4af5-b991-77d499f0918c" />
 
 
 
