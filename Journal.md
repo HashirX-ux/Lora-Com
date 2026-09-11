@@ -222,6 +222,10 @@ This is the order for me to build the schematic for my LoRa device keyboard
 So this is gonna be our keyboard matrix for the keyboard pad that we gonna build 
 <img width="746" height="255" alt="image" src="https://github.com/user-attachments/assets/b1441371-fe8f-4ab2-8c22-352c43a62675" />
 
+So this is gonna be the Screen that I am gonna use 
+<br>
+<img width="399" height="564" alt="image" src="https://github.com/user-attachments/assets/5d283dde-ef08-4288-b098-a750b6ef72c2" />
+
 
 
 
