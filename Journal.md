@@ -216,6 +216,8 @@ No I am gonna add the ATECC608A which is a secure element and cryptographic co-p
 Now I am gonna start working schematic. For making the schematic I am gonna use KiCad 
 <img width="779" height="678" alt="image" src="https://github.com/user-attachments/assets/04bec1e6-b8a4-4f10-a02b-bbc6602f2435" />
 
+This is the order for me to build the schematic for my LoRa device keyboard
+<img width="779" height="520" alt="image" src="https://github.com/user-attachments/assets/71a882e1-a20e-4cf2-aa89-0e8772c9e316" />
 
 
 
